@@ -49,3 +49,9 @@ Start the Streamlit application by running:
 ```sh
 streamlit run app.py
 ```
+
+📖 Usage
+1-Select a Topic: Choose a topic from the dropdown menu.
+2-Set Rounds: Select the number of conversation rounds.
+3-Custom Prompt: (Optional) Add a custom prompt to start the conversation.
+4-Start Conversation: Click the "Start Conversation" button to begin.
